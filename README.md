@@ -1,5 +1,8 @@
 # calendly-slack-push-notifications
 
+## Descriptions
+This application is specifically designed for the VandyHacks team's interview process. It pulls signups/cancellations from Calendly and puts it into Slack so we can allocate who on board interviews which applicants. 
+
 ## Config
 1. Change the service name in serverless.yml
 2. Feel free to change the name of the function (currently `passOn`)
